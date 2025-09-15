@@ -1,4 +1,6 @@
 # EXNO2DS
+## NAME: VASANTH N
+## REG.NO: 212224110060
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
